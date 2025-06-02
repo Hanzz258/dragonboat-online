@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_4",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":56,
+  "compression":1,
+  "conversionMode":0,
+  "duration":30.589388,
+  "name":"snd_4",
+  "parent":{
+    "name":"声音",
+    "path":"folders/声音.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":22050,
+  "soundFile":"snd_4.mp3",
+  "type":1,
+  "volume":0.35,
+}

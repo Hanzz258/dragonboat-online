@@ -1,0 +1,9 @@
+image_speed = 0.5;
+lifetime = 3;
+fade_start = 2;
+alpha = 1;
+scale = 0;
+max_scale = random_range(0.8, 1.2);
+rotation_speed = random_range(-5, 5);
+direction = random(360);
+speed = random_range(1, 3);

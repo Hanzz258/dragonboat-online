@@ -1,0 +1,1 @@
+max_speed = 8*RATE;   // 最大速度

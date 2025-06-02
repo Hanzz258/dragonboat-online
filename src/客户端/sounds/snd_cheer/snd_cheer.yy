@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_cheer",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":56,
+  "compression":1,
+  "conversionMode":0,
+  "duration":4.127347,
+  "name":"snd_cheer",
+  "parent":{
+    "name":"声音",
+    "path":"folders/声音.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":22050,
+  "soundFile":"snd_cheer.mp3",
+  "type":1,
+  "volume":0.35,
+}
